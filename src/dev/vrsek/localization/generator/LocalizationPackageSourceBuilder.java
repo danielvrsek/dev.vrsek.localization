@@ -1,6 +1,7 @@
 package dev.vrsek.localization.generator;
 
 import dev.vrsek.localization.LocalizationString;
+import dev.vrsek.source.builders.*;
 import dev.vrsek.source.builders.model.AccessModifier;
 import dev.vrsek.utils.IBuilder;
 import dev.vrsek.utils.JavaSourceFormatter;
