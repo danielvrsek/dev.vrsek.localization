@@ -25,7 +25,6 @@
 
         </plugins>
     </build>
-
     <dependencies>
         <dependency>
             <groupId>dev.vrsek</groupId>
